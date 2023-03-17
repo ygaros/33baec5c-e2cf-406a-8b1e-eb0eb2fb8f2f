@@ -1,0 +1,5 @@
+*.IN
+*.OUT
+/out
+/.idea
+*.iml
